@@ -18,7 +18,6 @@ brew install gpg \
 brew cask install \
     1password \
     firefox \
-    fuze \
     google-chrome \
     hipchat \
     macfusion \
